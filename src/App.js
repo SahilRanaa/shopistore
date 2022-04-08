@@ -13,7 +13,7 @@ const App = () => {
       <Router>
         <Header />
         <Routes>
-          <Route path="/home" exact element={<ProductPage />} />
+          <Route path="/" exact element={<ProductPage />} />
           <Route
             path="/product/:productId"
             exact
