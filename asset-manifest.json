@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopistore/static/css/main.cbf45bef.css",
+    "main.js": "/shopistore/static/js/main.dfed54a8.js",
+    "index.html": "/shopistore/index.html",
+    "main.cbf45bef.css.map": "/shopistore/static/css/main.cbf45bef.css.map",
+    "main.dfed54a8.js.map": "/shopistore/static/js/main.dfed54a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf45bef.css",
+    "static/js/main.dfed54a8.js"
+  ]
+}
